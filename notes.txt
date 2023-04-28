@@ -1,0 +1,17 @@
+-b1
+mutCLI was created!
+Added tools script
+
+-b2
+Massive overhaul to tools script
+
+-b3
+Fixed logoff command not working in tools script
+
+-b4
+Adds notes.txt
+Adds a subscript for the tools command which gives you a warning for if you want to log off but is unused in the build
+
+-b5
+Adds a use for the logoff subscript of tools
+

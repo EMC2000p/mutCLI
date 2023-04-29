@@ -1,5 +1,5 @@
 @echo off
-title systools (b5)
+title systools (b6)
 echo mutCLI-tools started!
 echo Type help for help.
 
@@ -46,5 +46,5 @@ goto a
 
 :g
 
-..\mutCLI.bat
+mutCLI.bat
 

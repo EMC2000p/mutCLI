@@ -15,3 +15,7 @@ Adds a subscript for the tools command which gives you a warning for if you want
 -b5
 Adds a use for the logoff subscript of tools
 
+-b6
+Fixed return command in tools not working
+Adds a command to view the notes.txt document
+

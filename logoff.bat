@@ -1,5 +1,5 @@
 @echo off
-title systools-logoff (b6)
+title systools-logoff (b7)
 
 :a
 set /P a="WARNING!! This will instantly log you out of Windows and any unsaved work will be lost. Are you sure you want to continue?[Y/N]"

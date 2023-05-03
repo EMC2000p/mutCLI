@@ -19,3 +19,6 @@ Adds a use for the logoff subscript of tools
 Fixed return command in tools not working
 Adds a command to view the notes.txt document
 
+-b7
+
+Adds cmd command

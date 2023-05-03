@@ -1,5 +1,5 @@
 @echo off
-title systools (b6)
+title systools (b7)
 echo mutCLI-tools started!
 echo Type help for help.
 
